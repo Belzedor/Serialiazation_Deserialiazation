@@ -1,0 +1,7 @@
+﻿  List.cpp
+C:\Users\denis\Desktop\Serial_Deserial\Serial_Deserial\Serial_Deserial\List.cpp(77,20): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\denis\Desktop\Serial_Deserial\Serial_Deserial\Serial_Deserial\List.cpp(77,35): warning C4018: <=: несоответствие типов со знаком и без знака
+  Serial_Deserial.cpp
+C:\Users\denis\Desktop\Serial_Deserial\Serial_Deserial\Serial_Deserial\Serial_Deserial.cpp(9,45): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Serial_Deserial.vcxproj -> C:\Users\denis\Desktop\Serial_Deserial\Serial_Deserial\Debug\Serial_Deserial.exe
